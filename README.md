@@ -59,5 +59,4 @@ I am a **computer student** :technologist: who wants to improve these skills and
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AllanDwyre)](https://github.com/AllanDwyre)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDwyre&layout=compact)](https://github.com/AllanDwyre)
