@@ -49,18 +49,6 @@ I am a **computer student** :technologist: who wants to improve these skills and
 		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
 	</a>
 	&ensp;
-	<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
-	</a>
-	&emsp;
-	<a href='https://www.Vuejs.org/'>
-		<img src='https://img.shields.io/badge/code-vue-green?logoWidth=30&labelColor=black&style=for-the-badge&logo=vue' alt='Vue.js'>
-	</a>
-	&emsp;
-	<a href='https://www.php.net/'>
-		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
-	</a>
-	&emsp;
 	<a href='https://getbootstrap.com/'>
 		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
 	</a>
