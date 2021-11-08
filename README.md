@@ -34,7 +34,7 @@ I am a **computer student** :technologist: who wants to improve these skills and
 	</a>
 	&emsp;
   <a href=''>
-		<img src='https://img.shields.io/badge/code-Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&labelColor=black' alt='Flutter'>
+		<img src='https://img.shields.io/badge/framework-Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&labelColor=black' alt='Flutter'>
 	</a>
 	&emsp;
 	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
