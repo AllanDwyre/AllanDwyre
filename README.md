@@ -31,4 +31,4 @@ I bridge ML research and industrial implementation: Multi-Agent Systems, RAG, MC
 ---
 
 ### 📈 Stats
-[![AllanDwyre's GitHub stats](https://github-stats-extended.vercel.app/api?username=AllanDwyre)](https://github.com/stats-organization/github-stats-extende
+![AllanDwyre's GitHub stats](https://github-stats-extended.vercel.app/api?username=AllanDwyre)
