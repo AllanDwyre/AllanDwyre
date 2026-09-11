@@ -4,7 +4,7 @@
 
 I bridge ML research and industrial implementation: Multi-Agent Systems, RAG, MCP — with hands-on experience in healthcare (VIDAL) and an interest in energy, agriculture, and space.
 
-📄 **All my projects and articles → [my portfolio](allandwyre.github.io)**
+📄 **All my projects and articles → [my portfolio](https://allandwyre.github.io/)**
 
 ---
 
